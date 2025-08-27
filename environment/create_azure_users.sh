@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define default password
-DEFAULT_PASSWORD="bootcamp2024"  # Replace with your actual password
+DEFAULT_PASSWORD="bootcamp2025"  # Replace with your actual password
 
 # List of usernames derived from email addresses
 USERNAMES=(
